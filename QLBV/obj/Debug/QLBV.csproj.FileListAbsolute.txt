@@ -1,0 +1,9 @@
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.exe.config
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.exe
+D:\QLBV\QLBV\QLBV\bin\Debug\QLBV.pdb
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.csprojResolveAssemblyReference.cache
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.frmMain.resources
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.Properties.Resources.resources
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.csproj.GenerateResource.Cache
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.exe
+D:\QLBV\QLBV\QLBV\obj\Debug\QLBV.pdb
